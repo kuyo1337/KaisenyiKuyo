@@ -3,14 +3,16 @@
 <div style="display: flex; justify-content: center;">
   <img width="40%" src="https://lanyard.cnrad.dev/api/1218434528285036606?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=kuyokatashi%20on%20insta!" alt="Discord Presence">
 </div>
-<b> Experience <b>
-<samp>
-- Python
-- JavaScript
-- C#
-- C++
-<samp>
 
+<div align="right">
+  <h3>Experience</h3>
+  <samp>
+    - Python<br>
+    - JavaScript<br>
+    - C#<br>
+    - C++
+  </samp>
+</div>
 ## Github Stats
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=kuyo1337&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">

@@ -1,7 +1,8 @@
 # <img width="40%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=15+%2C+self+taught+developer">
 
-<img width="30%" align="right" src="https://lanyard.cnrad.dev/api/1218434528285036606?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=kuyokatashi%20on%20insta!">
-
+<div style="display: flex; justify-content: center;">
+  <img width="40%" src="https://lanyard.cnrad.dev/api/1218434528285036606?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=kuyokatashi%20on%20insta!" alt="Discord Presence">
+</div>
 <b> Experience <b>
 <samp>
 - Python
